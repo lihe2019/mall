@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>lagou_parent</artifactId>
+        <groupId>com.lagou</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>lagou_service</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>lagou_service_goods</module>
+        <module>lagou_service_order</module>
+        <module>lagou_service_config</module>
+        <module>lagou_service_business</module>
+        <module>lagou_service_user</module>
+        <module>lagou_service_system</module>
+        <module>lagou_service_file</module>
+        <module>lagou_service_search</module>
+        <module>lagou-service-page</module>
+        <module>lagou_service_pay</module>
+        <module>lagou_service_seckill</module>
+    </modules>
+
+
+</project>

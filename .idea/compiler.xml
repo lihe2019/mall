@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lagou_service_page_api" />
+        <module name="lagou_service_file" />
+        <module name="lagou_common_db" />
+        <module name="lagou_service_pay_api" />
+        <module name="lagou-user-oauth" />
+        <module name="lagou_service_seckill_api" />
+        <module name="lagou_service_search_api" />
+        <module name="lagou_eureka_server" />
+        <module name="lagou_service_order_api" />
+        <module name="lagou_service_config" />
+        <module name="lagou_common" />
+        <module name="lagou_service_user" />
+        <module name="lagou_service_system" />
+        <module name="lagou_service_system_api" />
+        <module name="lagou_service_goods" />
+        <module name="lagou_service_seckill" />
+        <module name="lagou_gateway_system" />
+        <module name="lagou_service_business_api" />
+        <module name="lagou_service_search" />
+        <module name="lagou_service_order" />
+        <module name="lagou_service_pay" />
+        <module name="lagou_canal" />
+        <module name="lagou_service_business" />
+        <module name="lagou_service_user_api" />
+        <module name="lagou_service_config_api" />
+        <module name="lagou_service_goods_api" />
+        <module name="lagou-service-page" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lagou-service-page" target="1.8" />
+      <module name="lagou-user-oauth" target="1.8" />
+      <module name="lagou_canal" target="1.8" />
+      <module name="lagou_common" target="1.8" />
+      <module name="lagou_common_db" target="1.8" />
+      <module name="lagou_eureka_server" target="1.8" />
+      <module name="lagou_gateway" target="1.8" />
+      <module name="lagou_gateway_system" target="1.8" />
+      <module name="lagou_parent" target="1.8" />
+      <module name="lagou_service" target="1.8" />
+      <module name="lagou_service_api" target="1.8" />
+      <module name="lagou_service_business" target="1.8" />
+      <module name="lagou_service_business_api" target="1.8" />
+      <module name="lagou_service_config" target="1.8" />
+      <module name="lagou_service_config_api" target="1.8" />
+      <module name="lagou_service_file" target="1.8" />
+      <module name="lagou_service_goods" target="1.8" />
+      <module name="lagou_service_goods_api" target="1.8" />
+      <module name="lagou_service_order" target="1.8" />
+      <module name="lagou_service_order_api" target="1.8" />
+      <module name="lagou_service_page_api" target="1.8" />
+      <module name="lagou_service_pay" target="1.8" />
+      <module name="lagou_service_pay_api" target="1.8" />
+      <module name="lagou_service_search" target="1.8" />
+      <module name="lagou_service_search_api" target="1.8" />
+      <module name="lagou_service_seckill" target="1.8" />
+      <module name="lagou_service_seckill_api" target="1.8" />
+      <module name="lagou_service_system" target="1.8" />
+      <module name="lagou_service_system_api" target="1.8" />
+      <module name="lagou_service_user" target="1.8" />
+      <module name="lagou_service_user_api" target="1.8" />
+      <module name="lagou_web" target="1.8" />
+      <module name="lagou_web_search" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="lagou-service-page" options="-parameters" />
+      <module name="lagou-user-oauth" options="-parameters" />
+      <module name="lagou_canal" options="-parameters" />
+      <module name="lagou_common" options="-parameters" />
+      <module name="lagou_common_db" options="-parameters" />
+      <module name="lagou_eureka_server" options="-parameters" />
+      <module name="lagou_gateway" options="" />
+      <module name="lagou_gateway_system" options="-parameters" />
+      <module name="lagou_service_business" options="-parameters" />
+      <module name="lagou_service_business_api" options="-parameters" />
+      <module name="lagou_service_config" options="-parameters" />
+      <module name="lagou_service_config_api" options="-parameters" />
+      <module name="lagou_service_file" options="-parameters" />
+      <module name="lagou_service_goods" options="-parameters" />
+      <module name="lagou_service_goods_api" options="-parameters" />
+      <module name="lagou_service_order" options="-parameters" />
+      <module name="lagou_service_order_api" options="-parameters" />
+      <module name="lagou_service_page_api" options="-parameters" />
+      <module name="lagou_service_pay" options="-parameters" />
+      <module name="lagou_service_pay_api" options="-parameters" />
+      <module name="lagou_service_search" options="-parameters" />
+      <module name="lagou_service_search_api" options="-parameters" />
+      <module name="lagou_service_seckill" options="-parameters" />
+      <module name="lagou_service_seckill_api" options="-parameters" />
+      <module name="lagou_service_system" options="-parameters" />
+      <module name="lagou_service_system_api" options="-parameters" />
+      <module name="lagou_service_user" options="-parameters" />
+      <module name="lagou_service_user_api" options="-parameters" />
+      <module name="lagou_web" options="-parameters" />
+      <module name="lagou_web_search" options="-parameters" />
+    </option>
+  </component>
+</project>

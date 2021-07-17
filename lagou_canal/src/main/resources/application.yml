@@ -1,0 +1,9 @@
+canal:
+  client:
+    instances:
+      example:
+        host: 192.168.200.128
+        port: 11111
+spring:
+  rabbitmq:
+    host: 192.168.200.128

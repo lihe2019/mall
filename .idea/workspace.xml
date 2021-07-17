@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2364bc08-8cea-4a01-97f3-4c17af5cc670" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/environment/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\environment\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1mhAc2pe3eIHcTnERwL8RwSW6HC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lagou_common/src/main/java/com/lagou/util" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.52068967" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lagou.seckill.service" />
+      <recent name="com.lagou.order.util" />
+      <recent name="com.lagou.pay.config" />
+      <recent name="com.lagou.order.listener" />
+      <recent name="com.lagou.pay.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Develop\IdeaProjects\lagou_parent\lagou_common\src\main\java\com\lagou\util" />
+      <recent name="D:\Develop\IdeaProjects\lagou_parent\lagou_service\lagou_service_seckill\src\main\java\com\lagou\seckill\service" />
+      <recent name="D:\Develop\IdeaProjects\lagou_parent\lagou_service\lagou_service_seckill\src\main\java\com\lagou\seckill\dao" />
+      <recent name="D:\Develop\IdeaProjects\lagou_parent\lagou_service_api\lagou_service_seckill_api\src\main\java" />
+      <recent name="D:\Develop\IdeaProjects\lagou_parent\lagou_service\lagou_service_order\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SecKillApplication">
+    <configuration name="JwtTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lagou_gateway_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.gateway" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.gateway.JwtTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JwtTest.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lagou_gateway_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.gateway" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.gateway.JwtTest" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lagou_eureka_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.eureka.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lagou_service_goods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.GoodsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecKillApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lagou_service_seckill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.seckill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.seckill.SecKillApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SecKillApplication" />
+        <item itemvalue="Spring Boot.GoodsApplication" />
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
+        <item itemvalue="JUnit.JwtTest.test5" />
+        <item itemvalue="JUnit.JwtTest.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.22748815" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2364bc08-8cea-4a01-97f3-4c17af5cc670" name="Default Changelist" comment="" />
+      <created>1609935525497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609935525497</updated>
+      <workItem from="1609935535881" duration="5842000" />
+      <workItem from="1609992192347" duration="236000" />
+      <workItem from="1609992448040" duration="201000" />
+      <workItem from="1609992671907" duration="9353000" />
+      <workItem from="1610329956677" duration="1568000" />
+      <workItem from="1610422026230" duration="623000" />
+      <workItem from="1610432911182" duration="5994000" />
+      <workItem from="1611037503116" duration="149000" />
+      <workItem from="1611037671611" duration="14000" />
+      <workItem from="1611887210183" duration="1899000" />
+      <workItem from="1611889667168" duration="853000" />
+      <workItem from="1611890592515" duration="619000" />
+      <workItem from="1615379278299" duration="12370000" />
+      <workItem from="1615538201031" duration="78371000" />
+      <workItem from="1617265668704" duration="11169000" />
+      <workItem from="1617675074273" duration="33559000" />
+      <workItem from="1617974561297" duration="71911000" />
+      <workItem from="1618813833064" duration="29322000" />
+      <workItem from="1619337975419" duration="106675000" />
+      <workItem from="1620266230230" duration="33040000" />
+      <workItem from="1624889898469" duration="6719000" />
+      <workItem from="1624938857498" duration="6827000" />
+      <workItem from="1625020251391" duration="2141000" />
+      <workItem from="1625042003404" duration="3167000" />
+      <workItem from="1625051911116" duration="6000" />
+      <workItem from="1625108058356" duration="1293000" />
+      <workItem from="1625126187106" duration="40000" />
+      <workItem from="1625207957320" duration="7548000" />
+      <workItem from="1626096623845" duration="3263000" />
+      <workItem from="1626162977803" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.lua" />
+  </component>
+</project>

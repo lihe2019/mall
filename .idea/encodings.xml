@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/lagou-user-oauth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_canal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_eureka_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_gateway/lagou_gateway_system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service/lagou-service-page/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service/lagou_service_business/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service/lagou_service_config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service/lagou_service_file/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service/lagou_service_goods/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service/lagou_service_order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service/lagou_service_pay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service/lagou_service_search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service/lagou_service_seckill/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service/lagou_service_system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service/lagou_service_user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service_api/lagou_service_business_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service_api/lagou_service_config_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service_api/lagou_service_goods_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service_api/lagou_service_order_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service_api/lagou_service_page_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service_api/lagou_service_pay_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service_api/lagou_service_search_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service_api/lagou_service_seckill_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service_api/lagou_service_system_api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou_service_api/lagou_service_user_api/src/main/java" charset="UTF-8" />
+  </component>
+</project>
